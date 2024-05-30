@@ -1,0 +1,6 @@
+[book]
+authors = ["Eray"]
+language = "en"
+multilingual = false
+src = "notes"
+title = "Distributed Systems Notes"
